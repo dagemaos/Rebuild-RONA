@@ -7,15 +7,15 @@
 
 final class AppContainer {
     
+    let scanHistoryRepository: any ScanHistoryRepository
     let faceAnalyzer: FaceAnalyzer
-    let scanHistoryRepository: ScanHistoryRepository
     
     init() {
+        let repository = LocalScanHistoryStore()
         let analyzer = CoreMLFaceAnalyzer()
-        let store = LocalScanHistoryStore()
         
+        self.scanHistoryRepository = repository
         self.faceAnalyzer = analyzer
-        self.scanHistoryRepository = LocalScanHistoryRepository(store: store)
     }
 }
 

@@ -6,5 +6,8 @@
 //
 
 final class CoreMLFaceAnalyzer: FaceAnalyzer {
-    // Existing ML model integration
+    func analyze(image: /* input */) async throws -> ScanResult {
+        // existing ML integration
+        fatalError("Implement later")
+    }
 }
