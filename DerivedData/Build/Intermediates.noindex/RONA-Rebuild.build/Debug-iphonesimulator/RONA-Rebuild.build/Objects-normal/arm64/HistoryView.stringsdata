@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Features/History/HistoryView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Belum ada riwayat scan.",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scan %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 41
+        }
+      }
+    ]
+  },
+  "version": 1
+}

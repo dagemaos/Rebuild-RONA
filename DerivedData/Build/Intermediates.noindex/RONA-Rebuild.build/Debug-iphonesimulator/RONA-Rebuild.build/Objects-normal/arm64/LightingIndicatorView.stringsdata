@@ -1,0 +1,16 @@
+{
+  "source": "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Features/Scan/Views/Components/LightingIndicatorView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld/3 %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 23
+        }
+      }
+    ]
+  },
+  "version": 1
+}

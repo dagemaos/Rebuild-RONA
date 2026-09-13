@@ -1,0 +1,23 @@
+{
+  "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Infrastructure/Camera/ScanCameraService.swift" : {
+    "const-values" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanCameraService.swiftconstvalues",
+    "dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanCameraService.d",
+    "diagnostics" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanCameraService.dia",
+    "object" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanCameraService.o",
+    "swift-dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanCameraService.swiftdeps"
+  },
+  "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Infrastructure/ML/CoordinateNormalizer.swift" : {
+    "const-values" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/CoordinateNormalizer.swiftconstvalues",
+    "dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/CoordinateNormalizer.d",
+    "diagnostics" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/CoordinateNormalizer.dia",
+    "object" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/CoordinateNormalizer.o",
+    "swift-dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/CoordinateNormalizer.swiftdeps"
+  },
+  "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Infrastructure/ML/CoreMLFaceAnalyzer.swift" : {
+    "const-values" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/CoreMLFaceAnalyzer.swiftconstvalues",
+    "dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/CoreMLFaceAnalyzer.d",
+    "diagnostics" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/CoreMLFaceAnalyzer.dia",
+    "object" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/CoreMLFaceAnalyzer.o",
+    "swift-dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/CoreMLFaceAnalyzer.swiftdeps"
+  }
+}

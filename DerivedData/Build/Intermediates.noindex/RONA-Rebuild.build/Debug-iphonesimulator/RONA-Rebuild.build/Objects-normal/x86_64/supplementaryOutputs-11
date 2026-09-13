@@ -1,0 +1,23 @@
+{
+  "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Features/Scan/Models/ScanResult.swift" : {
+    "const-values" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanResult.swiftconstvalues",
+    "dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanResult.d",
+    "diagnostics" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanResult.dia",
+    "object" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanResult.o",
+    "swift-dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanResult.swiftdeps"
+  },
+  "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Features/Scan/Models/ScanState.swift" : {
+    "const-values" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanState.swiftconstvalues",
+    "dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanState.d",
+    "diagnostics" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanState.dia",
+    "object" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanState.o",
+    "swift-dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/ScanState.swiftdeps"
+  },
+  "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Features/Scan/Views/Components/LightingIndicatorView.swift" : {
+    "const-values" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/LightingIndicatorView.swiftconstvalues",
+    "dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/LightingIndicatorView.d",
+    "diagnostics" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/LightingIndicatorView.dia",
+    "object" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/LightingIndicatorView.o",
+    "swift-dependencies" : "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/DerivedData/Build/Intermediates.noindex/RONA-Rebuild.build/Debug-iphonesimulator/RONA-Rebuild.build/Objects-normal/x86_64/LightingIndicatorView.swiftdeps"
+  }
+}

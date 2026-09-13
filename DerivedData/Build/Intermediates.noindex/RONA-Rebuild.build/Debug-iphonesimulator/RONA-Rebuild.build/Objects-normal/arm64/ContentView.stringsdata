@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "RONA Rebuild",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Face Scan",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 23
+        }
+      }
+    ]
+  },
+  "version": 1
+}

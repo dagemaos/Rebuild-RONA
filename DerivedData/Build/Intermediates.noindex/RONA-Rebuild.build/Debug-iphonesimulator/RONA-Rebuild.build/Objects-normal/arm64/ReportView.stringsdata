@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Features/Report/ReportView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Report Content",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Error loading report",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 37
+        }
+      }
+    ]
+  },
+  "version": 1
+}

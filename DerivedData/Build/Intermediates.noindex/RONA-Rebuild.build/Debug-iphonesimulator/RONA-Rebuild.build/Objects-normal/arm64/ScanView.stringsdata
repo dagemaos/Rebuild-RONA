@@ -1,0 +1,80 @@
+{
+  "source": "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Features/Scan/Views/ScanView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Akses Kamera Ditolak",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Buka Pengaturan untuk mengizinkan akses kamera",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "Buka Pengaturan",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "Kembali",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "Menganalisis...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 228
+        }
+      },
+      {
+        "comment": "",
+        "key": "Memproses gambar dengan AI",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 232
+        }
+      },
+      {
+        "comment": "",
+        "key": "Terjadi Kesalahan",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 255
+        }
+      },
+      {
+        "comment": "",
+        "key": "Coba Lagi",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Kembali",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 282
+        }
+      }
+    ]
+  },
+  "version": 1
+}

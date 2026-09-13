@@ -1,0 +1,104 @@
+{
+  "source": "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Features/Scan/Views/FaceScanResultView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Scan Result",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back to Scanning Process",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "No",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yes",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Are you sure to re-do the scanning process? All the photos taken will be deleted",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skin Score",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Most Detected Acne Type",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": " /100",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld Acne",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Scan Result",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 266
+        }
+      }
+    ]
+  },
+  "version": 1
+}

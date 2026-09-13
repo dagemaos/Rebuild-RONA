@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ivanrifs/Documents/GitHub/RONA-Rebuild/RONA-Rebuild/Features/Scan/Views/Components/ZoneDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Foto belum tersedia",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld Acne",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 97
+        }
+      }
+    ]
+  },
+  "version": 1
+}
