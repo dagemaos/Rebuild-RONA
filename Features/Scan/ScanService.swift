@@ -6,7 +6,7 @@
 //
 
 protocol ScanServicing {
-    func scan() async throws -> ScanResult
+    func performScan() async throws -> ScanResult
 }
 
 final class ScanService: ScanServicing {
